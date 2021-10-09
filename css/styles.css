@@ -92,7 +92,7 @@ p{
 h2{
     font-family: "Montserrat Bold";
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5;
 }
 
@@ -124,4 +124,15 @@ h2{
 
 .btn-pricing{
     padding: 3% 2%;
+}
+
+#cta{
+    padding: 3% 10%;
+    text-align: center;
+    background-color: teal;
+}
+#footer{
+    text-align: center;
+    background-color: teal;
+    padding-bottom: 1%;
 }
