@@ -1,4 +1,4 @@
-# tinder web
+# tinder responsive website
 
 ### HTML, CSS
 ### Framework used : Bootstrap
